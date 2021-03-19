@@ -25,7 +25,7 @@ body{
 /*news*/
 .news-bg{
   /*background-color: #2e7090;*/
-  background-image:url(../img/images/4.jpeg);
+  background-image:url(../img/newsec-bg.jpeg);
   background-position: center;
   background-repeat:no-repeat;
   background-size:cover;
